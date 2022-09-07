@@ -8,6 +8,8 @@ def select_word():
     return word.upper()
 
 def main():
+    word = select_word()
+    start(word)
     input('Enter any key to start: ')
     print("temporary")
 
