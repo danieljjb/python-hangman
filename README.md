@@ -138,6 +138,7 @@ The results are given below:
 * When I used "break" and "exit()" on the if/else statement which asked users to play again, I could only enter "YES" and have it work once. The second time the game ended it would automatically exit. To solve this I removed both "break" and "exit()" and it functioned perfectly.
 
 ## Unfixed Bugs
+There are no unfixed bugs.
 
 # Deployment
 
