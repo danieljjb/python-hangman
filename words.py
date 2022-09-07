@@ -1,3 +1,5 @@
+# https://www.randomlists.com/data/words.json words sourced from
+
 word_list = [
     'aback',
     'abaft',
