@@ -67,6 +67,14 @@ The flowchart below shows the logic of how the game will be run from the beginni
 
 <img src="/docs/already-used-letter.png">
 
+### Winning and Losing
+
+* If a user gets the word right, they will be prompted with a message telling them.
+
+<img src="/docs/you-win.png">
+
+
+
 
 
 
