@@ -51,3 +51,7 @@ def start(word):
             else:
                 used = True
                 full_word = word
+        else:
+            print("Input invalid. Try again!")
+        print(hangman_images(attempts))
+        print(full_word)
