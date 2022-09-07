@@ -59,6 +59,10 @@ The flowchart below shows the logic of how the game will be run from the beginni
 
 <img src="/docs/letter-is-in-word.png">
 
+* If the user inputs an invalid guess such as an invalid character, too many or too little letters in a word or nothing at all, they will be prompted with an invalid message a be told to try again. They will not lose a life for this.
+
+<img src="/docs/input-invalid.png">
+
 
 
 ## Features to be Added
