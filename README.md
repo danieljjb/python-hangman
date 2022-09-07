@@ -24,3 +24,5 @@ All of the code for this project will be written in python.
 * Make the game challenging by giving the user a limited number of lives
 
 ## Requirements
+* Visual image of the hangman changing to represent letters guessed incorrectly
+* Option to play again after finishing game
