@@ -96,12 +96,7 @@ The flowchart below shows the logic of how the game will be run from the beginni
 
 <img src="/docs/play-again-exit.png">
 
-
-
-
-
-
-
-
-
 ## Features to be Added
+* Levels of difficulty (More/Less lives)
+* Countdown timer option
+* Multiplayer mode (Two hangmen take turns guessing letters/words)
