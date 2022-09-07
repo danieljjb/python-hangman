@@ -10,3 +10,7 @@ def select_word():
 def main():
     input('Enter any key to start: ')
     print("temporary")
+
+def start(word):
+    words_used = []
+    letters_used = []
