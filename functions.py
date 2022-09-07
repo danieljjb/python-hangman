@@ -6,3 +6,7 @@ from hangman import hangman_images
 def select_word():
     word = random.choice(word_list)
     return word.upper()
+
+def main():
+    input('Enter any key to start: ')
+    print("temporary")
