@@ -39,8 +39,15 @@ The flowchart below shows the logic of how the game will be run from the beginni
 ## Existing Features
 
 ### Start Screen
-The start screen show a simple command for the user to get the game started.
+* The start screen show a simple command for the user to get the game started.
 
 <img src="/docs/start.png">
+
+### The Game Begins
+* The game begins and users are shown an image where the man will be hung if they lose lives.
+* Beneath this the users are shown several hyphens which represent how many letters are in the word they have to guess.
+* Finally, there is a prompt indicating the user to enter a word or letter.
+
+<img src="/docs/user-enter.png">
 
 ## Features to be Added
