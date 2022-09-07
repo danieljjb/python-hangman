@@ -26,3 +26,5 @@ All of the code for this project will be written in python.
 ## Requirements
 * Visual image of the hangman changing to represent letters guessed incorrectly
 * Option to play again after finishing game
+
+# Design
