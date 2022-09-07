@@ -42,7 +42,8 @@ def start(word):
                 print(guess, "is in the word! Keep going! :)")
                 letters_used.append(guess)
                 listed_words = list(full_word)
-                indices = [i for i, letter in enumerate(word) if letter == guess]
+                indices = [i for i, letter in 
+                           enumerate(word) if letter == guess]
                 for index in indices:
                     listed_words[index] = guess
                 full_word = "".join(listed_words)
