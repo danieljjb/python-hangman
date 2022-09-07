@@ -38,4 +38,9 @@ The flowchart below shows the logic of how the game will be run from the beginni
 
 ## Existing Features
 
+### Start Screen
+The start screen show a simple command for the user to get the game started.
+
+<img src="/docs/start.png">
+
 ## Features to be Added
