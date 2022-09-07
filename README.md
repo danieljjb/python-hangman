@@ -117,3 +117,17 @@ The flowchart below shows the logic of how the game will be run from the beginni
 # Testing
 
 # Deployment
+
+The app was deployed using Heroku
+
+
+* Log in to Heroku (or create an account if necessary).
+* Click on New in the Heroku dashboard and select ”Create new app”.
+* Give the application an original name, choose your region and click “Create App”.
+* In the settings tab for the new application enter two Config Vars (if necessary):
+    * One is CREDS and contains the credentials key for Google Drive API.
+    * One is PORT and has the value of 8000.
+* Two buildpack scripts are to be added: Python and Nodejs (in that order).
+* Go to "Deploy" section, and click the Github icon in 'Deployment Method' and connect github.
+* Set the project to 'Automatic Deploys'.
+* The app will then be deployed and you will be provided a link to it.
