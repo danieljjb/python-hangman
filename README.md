@@ -166,7 +166,6 @@ The app was deployed using Heroku
 * [List of words used](https://www.randomlists.com/data/words.json)
 * [Hangman Images source](https://gist.github.com/chrishorton/8510732aa9a80a03c829b09f12e20d9c)
 * [W3 Schools](https://www.w3schools.com/python/ref_string_isalpha.asp#:~:text=The%20isalpha()%20method%20returns,alphabet%20letters%3A%20(space)!)
-I used w3schools to show me how to use isalpha()
-
-https://www.w3schools.com/python/ref_string_isalpha.asp#:~:text=The%20isalpha()%20method%20returns,alphabet%20letters%3A%20(space)!
+* I used w3schools to show me how to use isalpha()
+* [isalpha()](https://www.w3schools.com/python/ref_string_isalpha.asp#:~:text=The%20isalpha()%20method%20returns,alphabet%20letters%3A%20(space)!)
 
