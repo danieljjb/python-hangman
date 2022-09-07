@@ -19,5 +19,8 @@ All of the code for this project will be written in python.
 * As a user, I want to easily be able to play the game over and over again without much wait time in between games
 
 ## Site Owner Goals
+* Provide a game that is easy to play
+* Have a large number of words that are randomly selected
+* Make the game challenging by giving the user a limited number of lives
 
 ## Requirements
