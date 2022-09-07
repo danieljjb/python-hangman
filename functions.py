@@ -16,3 +16,5 @@ def start(word):
     letters_used = []
     full_word = "_" * len(word)
     attempts = 6
+    print(hangman_images(attempts))
+    print(full_word)
