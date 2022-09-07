@@ -50,4 +50,11 @@ The flowchart below shows the logic of how the game will be run from the beginni
 
 <img src="/docs/user-enter.png">
 
+### User Input Responses
+* If the user inputs a letter that is incorrect, there will be a message to tell them and the image of the hangman will be added to.
+
+<img src="/docs/letter-not-in-word.png">
+
+
+
 ## Features to be Added
