@@ -55,3 +55,7 @@ def start(word):
             print("Input invalid. Try again!")
         print(hangman_images(attempts))
         print(full_word)
+    if used:
+        print("You did it!! The word is " + word + " :)")
+    else:
+        print("You lost. :( The word was " + word)
