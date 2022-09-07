@@ -100,3 +100,10 @@ The flowchart below shows the logic of how the game will be run from the beginni
 * Levels of difficulty (More/Less lives)
 * Countdown timer option
 * Multiplayer mode (Two hangmen take turns guessing letters/words)
+
+# Technologies Used
+
+## Languages
+* [HTML](https://en.wikipedia.org/wiki/HTML5 "HTML")
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript "JS")
+* [Python](https://en.wikipedia.org/wiki/Python_(programming_language) "Python")
