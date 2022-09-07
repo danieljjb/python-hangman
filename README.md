@@ -73,6 +73,11 @@ The flowchart below shows the logic of how the game will be run from the beginni
 
 <img src="/docs/you-win.png">
 
+* If a user runs out of lives, they will be prompted with a message telling them that they lost and the word they were guessing will be revealed.
+
+<img src="/docs/you-lose.png">
+
+
 
 
 
