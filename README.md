@@ -9,6 +9,9 @@ All of the code for this project will be written in python.
 # UX
 
 ## User Goals
+* Easy to understand how play
+* Fun to play
+* Test their vocabulary
 
 ## User Stories
 
