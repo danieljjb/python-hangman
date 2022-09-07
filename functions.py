@@ -14,3 +14,4 @@ def main():
 def start(word):
     words_used = []
     letters_used = []
+    full_word = "_" * len(word)
