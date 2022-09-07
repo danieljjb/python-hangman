@@ -6,6 +6,11 @@ The purpose of this project is to provide a fun interactive game of hangman for 
 
 All of the code for this project will be written in python.
 
+# Live Project
+[View the live project here.](https://hangman-python-app.herokuapp.com/)
+
+<img src="/docs/am-i-responsive.png">
+
 # UX
 
 ## User Goals
