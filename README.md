@@ -77,6 +77,13 @@ The flowchart below shows the logic of how the game will be run from the beginni
 
 <img src="/docs/you-lose.png">
 
+### Play Again?
+
+* If the user wants to play the game again, they must type "YES" and click enter. The game will then be restarted.
+
+<img src="/docs/play-again-yes.png">
+
+
 
 
 
