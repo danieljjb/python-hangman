@@ -1,11 +1,17 @@
 import random
-from words import word_list
-from hangman import hangman_images
+from words import word_list  # Imports all of the words in the word list
+from hangman import hangman_images  # Imports the hangman images
+
+# select_word function returns a random word from the word list
 
 
-def select_word():
+def select_word(): 
     word = random.choice(word_list)
     return word.upper()
+
+
+# The main function starts the game and when the game is finished, 
+# gives users the option to play again
 
 
 def main():
@@ -21,15 +27,17 @@ def main():
 
 
 def start(word):
-    words_used = []
+    words_used = [] 
     letters_used = []
-    full_word = "_" * len(word)
-    attempts = 6
+    full_word = "_" * len(word)  # Represents each character in the word
+    attempts = 6  # Number of attempts the user has aa guessing the word/answer
     used = False
     print(hangman_images(attempts))
     print(full_word)
 
-    while not used and attempts > 0:
+    # This while loop checks the users remaing lives, 
+    # letter and word inputs and if user has won or lost
+    while not used and attempts > 0: 
         guess = input("Enter a letter or a word: ").upper()
         if len(guess) == 1 and guess.isalpha():
             if guess in letters_used:
