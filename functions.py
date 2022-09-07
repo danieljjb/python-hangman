@@ -7,6 +7,7 @@ def select_word():
     word = random.choice(word_list)
     return word.upper()
 
+
 def main():
     input('Enter any key to start: ')
     word = select_word()
@@ -17,6 +18,7 @@ def main():
         main()
     else:
         print("Come again another time!") 
+
 
 def start(word):
     words_used = []
