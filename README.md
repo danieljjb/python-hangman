@@ -28,3 +28,8 @@ All of the code for this project will be written in python.
 * Option to play again after finishing game
 
 # Design
+
+## Flowchart
+The flowchart below shows the logic of how the game will be run from the beginning of the game to the end of the game.
+
+<img src="/docs/flowchart.png">
