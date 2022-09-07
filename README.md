@@ -63,6 +63,12 @@ The flowchart below shows the logic of how the game will be run from the beginni
 
 <img src="/docs/input-invalid.png">
 
+* If the user already used a letter or word, they will be prompted with a message telling them to try again. They will not lose a life for this.
+
+<img src="/docs/already-used-letter.png">
+
+
+
 
 
 ## Features to be Added
