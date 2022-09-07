@@ -11,7 +11,14 @@ def main():
     input('Enter any key to start: ')
     word = select_word()
     start(word)
-    print("temporary")
+    if input("Enter 'YES' to play again."
+             "Enter any other key to exit the game: "
+             ).upper() == 'YES':
+        main()
+        break
+    else:
+        print("Come again another time!") 
+        exit()
 
 def start(word):
     words_used = []
