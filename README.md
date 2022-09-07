@@ -116,6 +116,17 @@ The flowchart below shows the logic of how the game will be run from the beginni
 
 # Testing
 
+## Code Validation
+PEP8 was used to test all of the python code.
+
+The results are given below:
+
+<img src="/docs/function-test.png">
+<img src="/docs/hangman-test.png">
+<img src="/docs/run-test.png">
+<img src="/docs/words-test.png">
+
+
 # Deployment
 
 The app was deployed using Heroku
