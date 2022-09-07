@@ -15,10 +15,8 @@ def main():
              "Enter any other key to exit the game: "
              ).upper() == 'YES':
         main()
-        break
     else:
         print("Come again another time!") 
-        exit()
 
 def start(word):
     words_used = []
