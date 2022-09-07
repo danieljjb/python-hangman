@@ -14,6 +14,9 @@ All of the code for this project will be written in python.
 * Test their vocabulary
 
 ## User Stories
+* As a user, I want to easily understand how to play the game
+* As a user, I want to be able to test my vocabulary on a wide range of words
+* As a user, I want to easily be able to play the game over and over again without much wait time in between games
 
 ## Site Owner Goals
 
