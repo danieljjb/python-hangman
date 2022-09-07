@@ -55,7 +55,7 @@ The flowchart below shows the logic of how the game will be run from the beginni
 
 <img src="/docs/letter-not-in-word.png">
 
-* If the user inputs a letter that is corret, there will be a message to tell them and the image of the hangman will remain the same as before.
+* If the user inputs a letter that is correct, there will be a message to tell them and the image of the hangman will remain the same as before.
 
 <img src="/docs/letter-is-in-word.png">
 
