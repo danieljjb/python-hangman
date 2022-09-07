@@ -121,9 +121,16 @@ PEP8 was used to test all of the python code.
 
 The results are given below:
 
+### functions.py
 <img src="/docs/function-test.png">
+
+### hangman.py
 <img src="/docs/hangman-test.png">
+
+### run.py
 <img src="/docs/run-test.png">
+
+### words.py
 <img src="/docs/words-test.png">
 
 
