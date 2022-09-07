@@ -1,3 +1,6 @@
+# I used this tutorial to give me a point of reference for some of the code:
+# https://www.youtube.com/watch?v=cJJTnI22IF8&ab_channel=KylieYing
+
 import random
 from words import word_list  # Imports all of the words in the word list
 from hangman import hangman_images  # Imports the hangman images
@@ -5,12 +8,12 @@ from hangman import hangman_images  # Imports the hangman images
 # select_word function returns a random word from the word list
 
 
-def select_word(): 
+def select_word():
     word = random.choice(word_list)
     return word.upper()
 
 
-# The main function starts the game and when the game is finished, 
+# The main function starts the game and when the game is finished,
 # gives users the option to play again
 
 
@@ -23,11 +26,11 @@ def main():
              ).upper() == 'YES':
         main()
     else:
-        print("Come again another time!") 
+        print("Come again another time!")
 
 
 def start(word):
-    words_used = [] 
+    words_used = []
     letters_used = []
     full_word = "_" * len(word)  # Represents each character in the word
     attempts = 6  # Number of attempts the user has aa guessing the word/answer
@@ -35,9 +38,9 @@ def start(word):
     print(hangman_images(attempts))
     print(full_word)
 
-    # This while loop checks the users remaing lives, 
+    # This while loop checks the users remaing lives,
     # letter and word inputs and if user has won or lost
-    while not used and attempts > 0: 
+    while not used and attempts > 0:
         guess = input("Enter a letter or a word: ").upper()
         if len(guess) == 1 and guess.isalpha():
             if guess in letters_used:
@@ -50,7 +53,7 @@ def start(word):
                 print(guess, "is in the word! Keep going! :)")
                 letters_used.append(guess)
                 listed_words = list(full_word)
-                indices = [i for i, letter in 
+                indices = [i for i, letter in
                            enumerate(word) if letter == guess]
                 for index in indices:
                     listed_words[index] = guess
