@@ -83,6 +83,10 @@ The flowchart below shows the logic of how the game will be run from the beginni
 
 <img src="/docs/play-again-yes.png">
 
+* If the user does not want to play the game again, they may enter any key and the game will exit.
+
+<img src="/docs/play-again-exit.png">
+
 
 
 
