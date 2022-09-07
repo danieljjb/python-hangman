@@ -65,5 +65,7 @@ def start(word):
         print(full_word)
     if used:
         print("You did it!! The word is " + word + " :)")
+        print("\n")
     else:
         print("You lost. :( The word was " + word)
+        print("\n")
