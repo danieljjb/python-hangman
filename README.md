@@ -133,6 +133,11 @@ The results are given below:
 ### words.py
 <img src="/docs/words-test.png">
 
+# Bugs
+* I had some issues with the while loop as when I entered characters that weren't letters such as: / ? ! etc. the game would accept them as an entry, even though I only wanted alphabet characters to work. I used w3schools to help me solve this issue.
+* When I used "break" and "exit()" on the if/else statement which asked users to play again, I could only enter "YES" and have it work once. The second time the game ended it would automatically exit. To solve this I removed both "break" and "exit()" and it functioned perfectly.
+
+## Unfixed Bugs
 
 # Deployment
 
