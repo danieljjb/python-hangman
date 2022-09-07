@@ -120,7 +120,6 @@ The flowchart below shows the logic of how the game will be run from the beginni
 
 The app was deployed using Heroku
 
-
 * Log in to Heroku (or create an account if necessary).
 * Click on New in the Heroku dashboard and select ”Create new app”.
 * Give the application an original name, choose your region and click “Create App”.
@@ -131,3 +130,13 @@ The app was deployed using Heroku
 * Go to "Deploy" section, and click the Github icon in 'Deployment Method' and connect github.
 * Set the project to 'Automatic Deploys'.
 * The app will then be deployed and you will be provided a link to it.
+
+# Credits
+* [Code Institute](https://codeinstitute.net/all-access-coding-challenge/?gclsrc=aw.ds&&msclkid=1915e48bf28d11888d1785dfd2b04125&utm_source=bing&utm_medium=cpc&utm_campaign=a%26c_SEA_IRL_BR_Brand_Code_Institute&utm_term=code%20institute&utm_content=exa_Brand) 
+* [Simen Daehlin](https://github.com/Eventyret)
+* [Kylie Ying](https://www.youtube.com/watch?v=cJJTnI22IF8&t=160s&ab_channel=KylieYing)
+
+# Useful Resources
+
+* [Stack Overflow](https://stackoverflow.com/ "Stack Overflow]")
+
