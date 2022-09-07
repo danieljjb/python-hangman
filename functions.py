@@ -41,3 +41,13 @@ def start(word):
                 full_word = "".join(listed_words)
                 if "_" not in full_word:
                     used = True
+        elif len(guess) == len(word) and guess.isalpha():
+            if guess in words_used:
+                print("The word ", guess, " has already been used. Try again!")
+            elif guess != word:
+                print(guess, "is incorrect. :(")
+                attempts -= 1
+                words_used.append(guess)
+            else:
+                used = True
+                full_word = word
