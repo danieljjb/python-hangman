@@ -113,3 +113,7 @@ The flowchart below shows the logic of how the game will be run from the beginni
 * [Am I Resposive?](https://ui.dev/amiresponsive "Am I Resposive?")
 * [Heroku](https://www.heroku.com/ "Heroku")
 * [PEP8](http://pep8online.com/ "PEP8")
+
+# Testing
+
+# Deployment
