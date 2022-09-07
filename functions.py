@@ -8,9 +8,9 @@ def select_word():
     return word.upper()
 
 def main():
+    input('Enter any key to start: ')
     word = select_word()
     start(word)
-    input('Enter any key to start: ')
     print("temporary")
 
 def start(word):
