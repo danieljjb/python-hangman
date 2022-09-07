@@ -107,3 +107,9 @@ The flowchart below shows the logic of how the game will be run from the beginni
 * [HTML](https://en.wikipedia.org/wiki/HTML5 "HTML")
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript "JS")
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language) "Python")
+
+## Tools
+* [Gitpod](https://www.gitpod.io/ "Gitpod")
+* [Am I Resposive?](https://ui.dev/amiresponsive "Am I Resposive?")
+* [Heroku](https://www.heroku.com/ "Heroku")
+* [PEP8](http://pep8online.com/ "PEP8")
