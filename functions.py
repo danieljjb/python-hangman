@@ -18,7 +18,7 @@ def main():
     input('Enter any key to start: ')
     word = select_word()
     start(word)
-    if input("Enter 'YES' to play again."
+    if input("Enter 'YES' to play again. "
              "Enter any other key to exit the game: "
              ).upper() == 'YES':
         main()
